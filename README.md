@@ -1,6 +1,7 @@
 # Weather Image Recognition
 
 Project completed for CS 5661 (Topics in Data Science) at Cal State LA.
+
 Kaggle Link: https://www.kaggle.com/datasets/jehanbhathena/weather-dataset
 
 
