@@ -1,4 +1,8 @@
-# CS_5660_Project
+# Weather Image Recognition
+
+Project completed for CS 5661 (Topics in Data Science) at Cal State LA.
+Kaggle Link: https://www.kaggle.com/datasets/jehanbhathena/weather-dataset
+
 
 ## Team Members:
 1. Tanmay Sure (CIN: 402578524)
