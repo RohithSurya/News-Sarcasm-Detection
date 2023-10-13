@@ -4,7 +4,7 @@ Project completed for CS 5660 (Advanced Artificial Intelligence) at Cal State LA
 
 This project addresses the problem of sarcasm detection in news headlines. The proposed solution involves using LSTM models, Word2Vec. The "News Headlines Dataset for Sarcasm Detection" from Kaggle is utilized for training and evaluation. The dataset consists of sarcastic and nonsarcastic headlines.
 
-Kaggle Link: https://www.kaggle.com/datasets/jehanbhathena/weather-dataset
+Kaggle Link: [https://www.kaggle.com/datasets/jehanbhathena/weather-dataset](https://www.kaggle.com/datasets/rmisra/news-headlines-dataset-for-sarcasm-detection)
 
 
 ## Team Members:
